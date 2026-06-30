@@ -1,4 +1,4 @@
-# Semana 02 - Arquitetura de Computação em Nuvem com API
+# Arquitetura de Computação em Nuvem com API
 
 Nesse encontro, teremos:
 
